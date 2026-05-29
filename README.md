@@ -3,6 +3,9 @@
 [![图片: 油猴脚本](https://img.shields.io/badge/油猴脚本-✓-green)](https://www.tampermonkey.net/)
 [![版本](https://img.shields.io/badge/版本-v3.1.0-blue)](https://github.com/xie7/SteamGifts-Enhanced)
 
+<img width="1357" height="478" alt="image" src="https://github.com/user-attachments/assets/7e7bdbbc-1144-477b-b764-7329e2b3b6b7" />
+
+
 ## 🎮 功能特点
 
 ### **一键参与功能**
